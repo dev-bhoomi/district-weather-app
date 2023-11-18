@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/district-weather-app/static/css/main.8f849b22.css",
+    "main.js": "/district-weather-app/static/js/main.06b4fd07.js",
+    "static/js/787.13d76ca7.chunk.js": "/district-weather-app/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/district-weather-app/index.html",
+    "main.8f849b22.css.map": "/district-weather-app/static/css/main.8f849b22.css.map",
+    "main.06b4fd07.js.map": "/district-weather-app/static/js/main.06b4fd07.js.map",
+    "787.13d76ca7.chunk.js.map": "/district-weather-app/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f849b22.css",
+    "static/js/main.06b4fd07.js"
+  ]
+}
