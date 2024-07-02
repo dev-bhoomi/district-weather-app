@@ -1,18 +1,20 @@
 
-# District-Weather-Application
+# Compound Interest Calculator
 
-Developed a weather application that provides real-time weather information for any city. Users can input the name of a city to view the current temperature along with a weekly weather forecast. The user interface dynamically changes based on the weather conditions, offering a visual representation of the weather. The application is built using React, JavaScript, CSS, HTML, and integrates with the RapidAPI for weather data.
+This Compound Interest Calculator is a web application built using React.js, JavaScript, CSS, and HTML. It enables users to easily calculate compound interest based on their principal amount, interest
+rate, compounding frequency(Annually, Quarterly, Semi-Annually, and Monthly), and investment duration. The user-friendly interface allows for quick and accurate calculations with dynamic results visualization.
 ## Features
 
-- #### City-Based Weather Search : 
-Enter the name of any city to retrieve and display the current temperature and weather conditions.
+- #### Dynamic Calculation : 
+Computes the compound interest based on the provided inputs and selected
+compounding interval.
 
-- #### Responsive Design :
-The application is fully responsive, ensuring a  seamless user experience across different devices and screen sizes.
-- #### Question Loading : 
-Allows manual loading of questions, ensuring a unique experience with each playthrough.
-- #### Score Tracking : 
-Tracks and displays the user's current level and score, motivating users to achieve higher scores.
+- #### Visual Representation:
+ Displays the calculated amount over the investment period using a graphical chart, allowing users to visualize the growth of their investment over time.
+
+- #### Responsive Design : 
+The application is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
+
 
 
 ## Languages/Library
@@ -40,10 +42,10 @@ Insert gif or link to demo
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ4MTVrempyN3ZiOXE5Z3RoeTA5bTRjaWJtOWY1OGh6MXg1MjM0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cM2Pq9g8tO7tPxlb5Z/giphy.gif)
 
-
 ## Deployment
 
-[Link to Deployed Application](https://dev-bhoomi.github.io/district-weather-app/)
+[Link to Deployed Application](https://dev-bhoomi.github.io/Compound-interest/)
+
 
 
 
@@ -53,8 +55,8 @@ Hey there! Just a friendly reminder to follow these steps when working on a Reac
 
 1. First, clone the project.
 2. Then, download the node_modules file.
-3. After that, run npm install my-project.
-4. Change directories to my-project.
+3. Navigate to the project Directory
+4. Install Dependencies
 5. Lastly, run npm start.
 
 Hope that helps!
