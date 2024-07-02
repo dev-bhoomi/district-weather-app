@@ -38,11 +38,12 @@ Tracks and displays the user's current level and score, motivating users to achi
 
 Insert gif or link to demo
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lpNGhyNWY2YjYxc2wwZWg0aHZtZzZyanFseG8wZ25uYmU0NnlsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IjAsZJbg20D9nmsXeU/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ4MTVrempyN3ZiOXE5Z3RoeTA5bTRjaWJtOWY1OGh6MXg1MjM0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cM2Pq9g8tO7tPxlb5Z/giphy.gif)
+
 
 ## Deployment
 
-[Link to Deployed Application](https://dev-bhoomi.github.io/Compound-interest/)
+[Link to Deployed Application](https://dev-bhoomi.github.io/district-weather-app/)
 
 
 
