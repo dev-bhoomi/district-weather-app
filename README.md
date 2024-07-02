@@ -1,23 +1,86 @@
 
-# District-Weather-App using react.js
+# District-Weather-Application
 
-This District Weather App, built with React.js, allows users to access weather information for different districts. The app utilizes an intuitive user interface to provide weather details based on district selection..
+Developed a weather application that provides real-time weather information for any city. Users can input the name of a city to view the current temperature along with a weekly weather forecast. The user interface dynamically changes based on the weather conditions, offering a visual representation of the weather. The application is built using React, JavaScript, CSS, HTML, and integrates with the RapidAPI for weather data.
+## Features
 
+- #### City-Based Weather Search : 
+Enter the name of any city to retrieve and display the current temperature and weather conditions.
+
+- #### Responsive Design :
+The application is fully responsive, ensuring a  seamless user experience across different devices and screen sizes.
+- #### Question Loading : 
+Allows manual loading of questions, ensuring a unique experience with each playthrough.
+- #### Score Tracking : 
+Tracks and displays the user's current level and score, motivating users to achieve higher scores.
+
+
+## Languages/Library
+### Languages
+- REACT
+- JavaScript
+- HTML
+- CSS
+
+### React Libraries
+- "@material-ui/core": "^4.12.4",
+- "@material-ui/icons": "^4.11.3",
+- "@testing-library/jest-dom": "^5.17.0",
+- "@testing-library/react": "^13.4.0",
+- "@testing-library/user-event": "^13.5.0",
+- "chart.js": "^4.4.0",
+- "react": "^18.2.0",
+- "react-dom": "^18.2.0",
+- "react-router-dom": "^6.16.0",
+- "react-scripts": "5.0.1",
+- "web-vitals": "^2.1.4"
 ## Demo
 
 Insert gif or link to demo
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmszczFvbXN1ZWdna2R5OXV2Y3ZheWV5Mmo3a2lpczJqY3o2b3kwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cM2Pq9g8tO7tPxlb5Z/source.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lpNGhyNWY2YjYxc2wwZWg0aHZtZzZyanFseG8wZ25uYmU0NnlsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IjAsZJbg20D9nmsXeU/giphy.gif)
 
 ## Deployment
 
-[Link to Deployed Application](https://dev-bhoomi.github.io/district-weather-app/)
+[Link to Deployed Application](https://dev-bhoomi.github.io/Compound-interest/)
 
+
+
+
+## How to Setup
+Hey there! Just a friendly reminder to follow these steps when working on a React project:
+
+1. First, clone the project.
+2. Then, download the node_modules file.
+3. After that, run npm install my-project.
+4. Change directories to my-project.
+5. Lastly, run npm start.
+
+Hope that helps!
+## How to deploy
+[![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
+
+# Hi, I'm dev-bhoomi! 👋
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, bootstrap and react.js
+
+
+## 🔗 Links
+https://github.com/dev-bhoomi
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alt Text]
 
 
 ## Appendix
@@ -57,15 +120,6 @@ Any additional information goes here
 #### add(num1, num2)
 
 Takes two numbers and returns the sum.
-
-
-## Features
-
-- Responsive Design: The expanding image cards work smoothly on different devices, adapting to various screen sizes.
-
-- Interactive Experience: Click on a card, and the image elegantly expands for a closer view. Click on another, and the previous one collapses.
-
-- Easy Customization: You can easily change the images inside each card. Customize the content to showcase your favorite pictures.
 
 
 ## Authors
@@ -124,16 +178,6 @@ Please adhere to this project's `code of conduct`.
 ## Feedback
 
 If you have any feedback, please reach out to us at fake@fake.com
-
-
-# Hi, I'm dev-bhoomi! 👋
-
-
-## 🔗 Links
-https://github.com/dev-bhoomi
-
-## 🛠 Skills
-Javascript, HTML, CSS, bootstrap and react.js
 
 
 ## Installation
