@@ -1,20 +1,16 @@
 
-# Compound Interest Calculator
+# District-Weather-Application
 
-This Compound Interest Calculator is a web application built using React.js, JavaScript, CSS, and HTML. It enables users to easily calculate compound interest based on their principal amount, interest
-rate, compounding frequency(Annually, Quarterly, Semi-Annually, and Monthly), and investment duration. The user-friendly interface allows for quick and accurate calculations with dynamic results visualization.
-## Features
+Developed a weather application that provides real-time weather information for any city.Users can input the name of a city to view the current temperature along with a weekly weather forecast.The user interface dynamically changes based on the weather conditions, offering a visual representationof the weather. The application is built using React, JavaScript, CSS, HTML, and integrates with the RapidAPI for weather data.
 
-- #### Dynamic Calculation : 
-Computes the compound interest based on the provided inputs and selected
-compounding interval.
+- #### City-Based Weather Search :
+-  Enter the name of any city to retrieve and display the current temperature and weather conditions.
 
-- #### Visual Representation:
- Displays the calculated amount over the investment period using a graphical chart, allowing users to visualize the growth of their investment over time.
-
-- #### Responsive Design : 
-The application is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
-
+- #### Responsive Design :
+- The application is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
+- #### Question Loading :
+-  Allows manual loading of questions, ensuring a unique experience with each
+playthrough.
 
 
 ## Languages/Library
@@ -44,7 +40,7 @@ Insert gif or link to demo
 
 ## Deployment
 
-[Link to Deployed Application](https://dev-bhoomi.github.io/Compound-interest/)
+[Link to Deployed Application](https://dev-bhoomi.github.io/district-weather-app/)
 
 
 
